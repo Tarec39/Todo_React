@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "content": "Create react appをインストールする",
+      "done": false
+    },
+    {
+      "id": "01GADXM5CMNM8AN6Y04TRG3S88",
+      "content": "asd",
+      "done": false
+    },
+    {
+      "id": "01GANK49QGMKQ41T8FQQ02TBVT",
+      "content": "試しに追加してみます。",
+      "done": false
+    },
+    {
+      "id": "01GATZZYJQPF9SZVSRXXZ5Y05M",
+      "content": "にょほほ",
+      "done": true
+    }
+  ]
+}
